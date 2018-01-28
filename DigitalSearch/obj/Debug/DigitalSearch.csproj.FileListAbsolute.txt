@@ -1,0 +1,10 @@
+c:\users\царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\bin\Debug\DigitalSearch.exe.config
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\bin\Debug\DigitalSearch.exe
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\bin\Debug\DigitalSearch.pdb
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.csprojResolveAssemblyReference.cache
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.g.resources
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.MainWindow.resources
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.Properties.Resources.resources
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.csproj.GenerateResource.Cache
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.exe
+C:\Users\Царь\documents\visual studio 2015\Projects\DigitalSearch\DigitalSearch\obj\Debug\DigitalSearch.pdb
